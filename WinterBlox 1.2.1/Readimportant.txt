@@ -1,0 +1,9 @@
+These files were modified by Benjaatention. The original files are on the website https://optijuegos.net/
+
+I've modified a few things, including automatic resolution and a little more. If you find any errors, you can let me know on Discord. My username is "bennnn.3".
+
+Important Point!
+
+If you notice that the program isn't progressing or performing any process, try pressing a key, or simply close and reopen it. I'm working on it.
+
+[!] Remember to always close Roblox with the .bat file running before restoring changes.
